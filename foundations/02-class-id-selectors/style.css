@@ -1,0 +1,16 @@
+.odd {
+    background-color:rgb(255, 0, 76);
+    font-family: Verdana, sans-serif;
+}
+#elem2 {
+    color: blue;
+    font-size: 36px;
+}
+.cooler {
+    font-size: 24px;
+}
+.four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
